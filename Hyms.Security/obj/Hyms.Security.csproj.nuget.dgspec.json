@@ -107,6 +107,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.2.4, )"
+            },
+            "System.Security.Cryptography.Csp": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,12 +1,12 @@
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Access.deps.json
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Access.dll
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Access.pdb
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Model.dll
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Model.pdb
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.csprojAssemblyReference.cache
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.AssemblyInfoInputs.cache
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.AssemblyInfo.cs
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.csproj.CopyComplete
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.dll
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.pdb
-C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.csprojAssemblyReference.cache
-C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Model.dll
-C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\bin\Debug\netcoreapp3.1\Hyms.Data.Model.pdb
-C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Data.Access\obj\Debug\netcoreapp3.1\Hyms.Data.Access.csproj.CopyComplete
