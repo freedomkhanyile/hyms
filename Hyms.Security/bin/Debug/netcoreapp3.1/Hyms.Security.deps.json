@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hyms.Security/1.0.0": {
+        "dependencies": {
+          "Hyms.Data.Model": "1.0.0"
+        },
+        "runtime": {
+          "Hyms.Security.dll": {}
+        }
+      },
+      "Hyms.Data.Model/1.0.0": {
+        "runtime": {
+          "Hyms.Data.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hyms.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hyms.Data.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

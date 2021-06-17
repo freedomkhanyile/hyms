@@ -1,12 +1,23 @@
-﻿using Org.BouncyCastle.Crypto.Generators;
-using System;
+﻿using System;
 using System.Security.Cryptography;
 using System.Text;
 
 namespace Hyms.Data.Access.Helpers
 {
-    public class EncryptionHelper
-    {
+    using BCrypt = BCrypt.Net.BCrypt;
 
+    public static class EncryptionHelper
+    {
+        public static string WithBCrypt(this string text)
+        {
+            var result = BCrypt.HashPassword(text);
+            return result;
+        }
+
+        public static bool VerifyWithBCrypt(this string hashedPassword, string plainText)
+        {
+            var result = BCrypt.Verify(plainText, hashedPassword);
+            return result;
+        }
     }
 }
