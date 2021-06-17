@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hyms.Api.Common\Hyms.Api.Common.csproj" />
+    <ProjectReference Include="..\Hyms.Api.Model\Hyms.Api.Model.csproj" />
+    <ProjectReference Include="..\Hyms.Data.Access\Hyms.Data.Access.csproj" />
+    <ProjectReference Include="..\Hyms.Data.Model\Hyms.Data.Model.csproj" />
+    <ProjectReference Include="..\Hyms.Security\Hyms.Security.csproj" />
+  </ItemGroup>
+
+</Project>

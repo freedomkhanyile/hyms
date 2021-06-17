@@ -1,0 +1,8 @@
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\bin\Debug\netcoreapp3.1\Hyms.Api.Model.deps.json
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\bin\Debug\netcoreapp3.1\Hyms.Api.Model.dll
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\bin\Debug\netcoreapp3.1\Hyms.Api.Model.pdb
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\obj\Debug\netcoreapp3.1\Hyms.Api.Model.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\obj\Debug\netcoreapp3.1\Hyms.Api.Model.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\obj\Debug\netcoreapp3.1\Hyms.Api.Model.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\obj\Debug\netcoreapp3.1\Hyms.Api.Model.dll
+C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api.Model\obj\Debug\netcoreapp3.1\Hyms.Api.Model.pdb

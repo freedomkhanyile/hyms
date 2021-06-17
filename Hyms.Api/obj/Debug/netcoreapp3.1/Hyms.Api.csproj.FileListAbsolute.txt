@@ -17,4 +17,3 @@ C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api\obj\Debug\netcoreapp3.1\Hym
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api\obj\Debug\netcoreapp3.1\Hyms.Api.dll
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api\obj\Debug\netcoreapp3.1\Hyms.Api.pdb
 C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api\obj\Debug\netcoreapp3.1\Hyms.Api.genruntimeconfig.cache
-C:\Users\Freedom.Khanyile\source\repos\Hyms\Hyms.Api\obj\Debug\netcoreapp3.1\Hyms.Api.csprojAssemblyReference.cache
