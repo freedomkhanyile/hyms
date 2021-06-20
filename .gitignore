@@ -5,3 +5,9 @@
 .vs/Hyms/v16/.suo
 .vs/Hyms/v16/.suo
 *.txt
+.vs/Hyms/v16/.suo
+Hyms.Api.IntegrationTests/obj/Debug/netcoreapp3.1/Hyms.Api.IntegrationTests.csprojAssemblyReference.cache
+Hyms.Data.Access/obj/Debug/netcoreapp3.1/Hyms.Data.Access.csprojAssemblyReference.cache
+Hyms.Queries.Tests/obj/Debug/netcoreapp3.1/Hyms.Queries.Tests.csprojAssemblyReference.cache
+Hyms.Queries/obj/Debug/netcoreapp3.1/Hyms.Queries.csprojAssemblyReference.cache
+Hyms.Security/obj/Debug/netcoreapp3.1/Hyms.Security.csprojAssemblyReference.cache
